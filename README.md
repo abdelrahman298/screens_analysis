@@ -1,16 +1,15 @@
 # screens_analysis
 
-A new Flutter project.
+Screen Analysis Flutter project.
 
-## Getting Started
+Here is an app that consists of two screens.
+first shows the numeric metrics about the orders : total count, average price and number of returns
+second shows a graph displaying the number of orders as the Y-axis and time as the X-axis
 
-This project is a starting point for a Flutter application.
+I have designed it to display on android,ios and web platdorms
 
-A few resources to get you started if this is your first Flutter project:
+# A gif of the app on android platform
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![a gif on android platform](https://user-images.githubusercontent.com/54869237/158064502-0e212d24-dc0c-4433-a62b-4027b6c075f9.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# A 
