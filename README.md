@@ -13,3 +13,4 @@ I have designed it to display on android,ios and web platdorms
 ![a gif on android platform](https://user-images.githubusercontent.com/54869237/158064502-0e212d24-dc0c-4433-a62b-4027b6c075f9.gif)
 
 # A 
+<img src="https://user-images.githubusercontent.com/54869237/158064502-0e212d24-dc0c-4433-a62b-4027b6c075f9.gif" width="250" height="250"/>
