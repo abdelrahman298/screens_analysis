@@ -8,8 +8,7 @@ second shows a graph displaying the number of orders as the Y-axis and time as t
 
 I have designed it to display on android,ios and web platdorms
 
-# A gif of the app on android platform
+here's a gif for the app 
 
-<img src="https://user-images.githubusercontent.com/54869237/158064502-0e212d24-dc0c-4433-a62b-4027b6c075f9.gif" width="250" height="600"/>
+<img src="https://user-images.githubusercontent.com/54869237/158064502-0e212d24-dc0c-4433-a62b-4027b6c075f9.gif" width="270" height="600"/>
 
-# A 
